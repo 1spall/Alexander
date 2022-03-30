@@ -75,6 +75,7 @@ import os
 a = int(input())
 A = 1
 B = 10
+c =11
 C = A*B/2
 
 
