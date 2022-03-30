@@ -1,0 +1,5 @@
+stroka = input("введите строку;")
+stroka1 = stroka.replace ("","")
+#stroka = stroka.split()
+#print('',join(stroka1))
+print()

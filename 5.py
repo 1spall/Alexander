@@ -1,0 +1,5 @@
+int(input('Введите начало'))
+int(input('Введите конец'))
+int(input('Введите шаг'))
+for i in range (a, b, c)
+    print(i)
